@@ -1,0 +1,13 @@
+noah@LaptopNoah:~$ ./sysinfo.sh
+Hostname:                                     LaptopNoah
+Betriebssystemversion:                        Linux 5.15.153.1-microsoft-standard-WSL2 x86_64
+Anzahl der CPU-Cores:                         12
+Modellname der CPU:                           12th Gen Intel(R) Core(TM) i7-1255U
+Gesamter und genutzter Arbeitsspeicher:       15Gi / 502Mi
+Verfügbarer Speicher:                         1.9T
+Freier Speicher:                              36%
+Gesamtgröße des Dateisystems:                 3.0T
+Belegter Speicher auf dem Dateisystem:        1.1T
+Freier Speicher auf dem Dateisystem:          1.9T
+Aktuelle Systemlaufzeit:                      up 6 minutes
+Aktuelle Systemzeit:                          Fri Jul  5 11:04:07 CEST 2024

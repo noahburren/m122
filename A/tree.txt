@@ -1,0 +1,166 @@
+noah@LaptopNoah:~$ tree _schulklassen/
+_schulklassen/
+├── AB3b
+│   ├── Amir-Gholamsakhi
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Cedric-Oberholzer
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Clyde-Sincalire
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Felix-Neumann
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Leon-Scherter
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Matheo-Schreiner
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Menkre-Carmen
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Merhawi-Beurert
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Noah-Burren
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Sven-Spuehler
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Thomas-Lehmann
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Yan-Bider
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   └── Yannik-Scherer
+│       ├── datei-1.txt
+│       ├── datei-2.pdf
+│       └── datei-3.doc
+├── AB3b.txt
+├── M122-AP23d
+│   ├── Albara-Alasad
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Amir-Gholamsakhi
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Chris-Evans
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── David-Burger
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Levi-Fuchs
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Levin-Wiederkehr
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Luca-Braendli
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Noah-Burren
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Noah-Burrnr
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Tim-Fischer
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Tim-Krahl
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Tim-Nguyen
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   └── Yannik-Scherer
+│       ├── datei-1.txt
+│       ├── datei-2.pdf
+│       └── datei-3.doc
+├── M122-AP23d.txt
+├── RAU
+│   ├── Aldin-Sahinovic
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Amir-Gholamsakhi
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Benjamin-Beres
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Eduard-Bulach
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Erna-Salhivic
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Jaken-Norton
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Luca-Braendli
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Michael-Graf
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Noah-Burren
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Patrick-Kramer
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Rafael-Bert
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   ├── Sara-Bamberger
+│   │   ├── datei-1.txt
+│   │   ├── datei-2.pdf
+│   │   └── datei-3.doc
+│   └── Sara-Haltic
+│       ├── datei-1.txt
+│       ├── datei-2.pdf
+│       └── datei-3.doc
+└── RAU.txt
+
+42 directories, 120 files

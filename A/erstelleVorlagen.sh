@@ -1,17 +1,21 @@
 #!/bin/bash
 
-# Erzeuge das Verzeichnis "_templates"
-mkdir -p _templates
 
-# Erstelle mindestens 3 Dateien im "_templates" Verzeichnis
-touch _templates/datei-1.txt _templates/datei-2.pdf _templates/datei-3.doc
+mkdir -p ./_templates
 
-# Erzeuge das Verzeichnis "_schulklassen"
-mkdir -p _schulklassen
 
-# Erstelle mindestens 2 Schulklassen-Dateien und fülle sie mit Namen
-echo -e "Brändli Luca\nScherer Yannik\nBurren Noah\nWiederkehr Levin\nFuchs Levi\nGolamsakhi Amir\nNeuhaus Leon\nPamay Levin\nKral Tim\nNguyen Tim\nBurger David\nAlasaad Albara" > _schulklassen/M122-AP23d.txt
-echo -e "Burren Samantha\nBurren Joshua\nBurren Dominik\nSanabria Rebecca\nSanabria Juan Antonio\nSanabria Jaël\nSanabria Diego\nSanabria Marino\nSanabria Luis Ramon\nKüenzi Ruth\nSanabria José\nSanabria Annika" > _Verwandtschaft.txt
+touch ./_templates/datei-1.txt
+touch ./_templates/datei-2.pdf
+touch ./_templates/datei-3.doc
 
-# Skript ausführbar machen
-chmod +x erstelleVorlagen.sh
+mkdir -p ./_schulklassen
+
+schueler_namenTBZ=("Noah-Burren" "Yannik-Scherer" "Albara-Alasad" "Levi-Fuchs" "Amir-Gholamsakhi" "Levin-Wiederkehr" "Luca-Braendli" "Tim-Fischer" "Tim-Nguyen" "Chris-Evans" "Tim-Krahl" "David-Burger")
+schueler_namenSekundarstufe=("Noah-Burren" "Yannik-Scherer" "Menkre-Carmen" "Merhawi-Beurert" "Thomas-Lehmann" "Cedric-Oberholzer" "Sven-Spuehler" "Yan-Bider" "Clyde-Sincalire" "Matheo-Schreiner" "Leon-Scherter" "Felix-Neumann")
+schueler_namenAusbildungszentrum=("Noah-Burren" "Luca-Braendli" "Aldin-Sahinovic" "Eduard-Bulach" "Jaken-Norton" "Benjamin-Beres" "Rafael-Bert" "Michael-Graf" "Patrick-Kramer" "Erna-Salhivic" "Sara-Bamberger" "Sara-Haltic")
+
+echo "${schueler_namenTBZ[@]}" | tr ' ' '\n' > ./_schulklassen/M122-AP23d.txt
+echo "${schueler_namenSekundarstufe[@]}" | tr ' ' '\n' > ./_schulklassen/AB3b.txt
+echo "${schueler_namenAusbildungszentrum[@]}" | tr ' ' '\n' > ./_schulklassen/RAU.txt
+
+echo "Verzeichnisse und Dateien wurden erfolgreich erstellt."
