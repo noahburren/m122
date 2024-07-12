@@ -1,327 +1,165 @@
 noah@LaptopNoah:~$ ./AufgabeG.sh 100
 Currency        Old Rate        New Rate        Change
-Runtime error (func=(main), adr=10): Divide by zero
-CHF     null    1       %
-Runtime error (func=(main), adr=17): Divide by zero
-AED     null    4.0907  %
-Runtime error (func=(main), adr=18): Divide by zero
-AFN     null    79.1875 %
-Runtime error (func=(main), adr=19): Divide by zero
-ALL     null    103.1608        %
-Runtime error (func=(main), adr=19): Divide by zero
-AMD     null    432.7761        %
-Runtime error (func=(main), adr=17): Divide by zero
-ANG     null    1.9938  %
-Runtime error (func=(main), adr=19): Divide by zero
-AOA     null    987.9682        %
-Runtime error (func=(main), adr=20): Divide by zero
-ARS     null    1023.5491       %
-Runtime error (func=(main), adr=17): Divide by zero
-AUD     null    1.6528  %
-Runtime error (func=(main), adr=17): Divide by zero
-AWG     null    1.9938  %
-Runtime error (func=(main), adr=17): Divide by zero
-AZN     null    1.8936  %
-Runtime error (func=(main), adr=17): Divide by zero
-BAM     null    2.0137  %
-Runtime error (func=(main), adr=17): Divide by zero
-BBD     null    2.2277  %
-Runtime error (func=(main), adr=19): Divide by zero
-BDT     null    130.9184        %
-Runtime error (func=(main), adr=17): Divide by zero
-BGN     null    2.0137  %
-Runtime error (func=(main), adr=16): Divide by zero
-BHD     null    0.4188  %
-Runtime error (func=(main), adr=20): Divide by zero
-BIF     null    3212.7453       %
-Runtime error (func=(main), adr=17): Divide by zero
-BMD     null    1.1139  %
-Runtime error (func=(main), adr=17): Divide by zero
-BND     null    1.5043  %
-Runtime error (func=(main), adr=17): Divide by zero
-BOB     null    7.7002  %
-Runtime error (func=(main), adr=17): Divide by zero
-BRL     null    6.0845  %
-Runtime error (func=(main), adr=17): Divide by zero
-BSD     null    1.1139  %
-Runtime error (func=(main), adr=18): Divide by zero
-BTN     null    92.9936 %
-Runtime error (func=(main), adr=18): Divide by zero
-BWP     null    15.0883 %
-Runtime error (func=(main), adr=17): Divide by zero
-BYN     null    3.6166  %
-Runtime error (func=(main), adr=17): Divide by zero
-BZD     null    2.2277  %
-Runtime error (func=(main), adr=16): Divide by zero
-CAD     null    1.519   %
-Runtime error (func=(main), adr=20): Divide by zero
-CDF     null    3182.7196       %
-Runtime error (func=(main), adr=20): Divide by zero
-CLP     null    1046.3994       %
-Runtime error (func=(main), adr=17): Divide by zero
-CNY     null    8.1123  %
-Runtime error (func=(main), adr=20): Divide by zero
-COP     null    4495.5694       %
-Runtime error (func=(main), adr=19): Divide by zero
-CRC     null    593.9053        %
-Runtime error (func=(main), adr=18): Divide by zero
-CUP     null    26.7327 %
-Runtime error (func=(main), adr=18): Divide by zero
-CVE     null    113.527 %
-Runtime error (func=(main), adr=18): Divide by zero
-CZK     null    26.0091 %
-Runtime error (func=(main), adr=19): Divide by zero
-DJF     null    197.9565        %
-Runtime error (func=(main), adr=17): Divide by zero
-DKK     null    7.6825  %
-Runtime error (func=(main), adr=18): Divide by zero
-DOP     null    65.8452 %
-Runtime error (func=(main), adr=19): Divide by zero
-DZD     null    149.6483        %
-Runtime error (func=(main), adr=18): Divide by zero
-EGP     null    53.5376 %
-Runtime error (func=(main), adr=18): Divide by zero
-ERN     null    16.7079 %
-Runtime error (func=(main), adr=18): Divide by zero
-ETB     null    63.6596 %
-Runtime error (func=(main), adr=17): Divide by zero
-EUR     null    1.0296  %
-Runtime error (func=(main), adr=16): Divide by zero
-FJD     null    2.502   %
-Runtime error (func=(main), adr=16): Divide by zero
-FKP     null    0.8706  %
-Runtime error (func=(main), adr=17): Divide by zero
-FOK     null    7.6817  %
-Runtime error (func=(main), adr=16): Divide by zero
-GBP     null    0.8706  %
-Runtime error (func=(main), adr=17): Divide by zero
-GEL     null    3.0519  %
-Runtime error (func=(main), adr=16): Divide by zero
-GGP     null    0.8706  %
-Runtime error (func=(main), adr=18): Divide by zero
-GHS     null    17.2537 %
-Runtime error (func=(main), adr=16): Divide by zero
-GIP     null    0.8706  %
-Runtime error (func=(main), adr=17): Divide by zero
-GMD     null    72.262  %
-Runtime error (func=(main), adr=20): Divide by zero
-GNF     null    9655.7102       %
-Runtime error (func=(main), adr=17): Divide by zero
-GTQ     null    8.6458  %
-Runtime error (func=(main), adr=18): Divide by zero
-GYD     null    232.935 %
-Runtime error (func=(main), adr=17): Divide by zero
-HKD     null    8.7011  %
-Runtime error (func=(main), adr=18): Divide by zero
-HNL     null    27.5676 %
-Runtime error (func=(main), adr=17): Divide by zero
-HRK     null    7.7574  %
-Runtime error (func=(main), adr=19): Divide by zero
-HTG     null    147.1698        %
-Runtime error (func=(main), adr=19): Divide by zero
-HUF     null    406.1284        %
-Runtime error (func=(main), adr=21): Divide by zero
-IDR     null    18096.1123      %
-Runtime error (func=(main), adr=17): Divide by zero
-ILS     null    4.0932  %
-Runtime error (func=(main), adr=16): Divide by zero
-IMP     null    0.8706  %
-Runtime error (func=(main), adr=18): Divide by zero
-INR     null    92.9935 %
-Runtime error (func=(main), adr=20): Divide by zero
-IQD     null    1455.3462       %
-Runtime error (func=(main), adr=20): Divide by zero
-IRR     null    47361.681       %
-Runtime error (func=(main), adr=19): Divide by zero
-ISK     null    153.4816        %
-Runtime error (func=(main), adr=16): Divide by zero
-JEP     null    0.8706  %
-Runtime error (func=(main), adr=19): Divide by zero
-JMD     null    174.3001        %
-Runtime error (func=(main), adr=16): Divide by zero
-JOD     null    0.7897  %
-Runtime error (func=(main), adr=19): Divide by zero
-JPY     null    179.5785        %
-Runtime error (func=(main), adr=19): Divide by zero
-KES     null    143.0106        %
-Runtime error (func=(main), adr=18): Divide by zero
-KGS     null    96.0196 %
-Runtime error (func=(main), adr=20): Divide by zero
-KHR     null    4602.0405       %
-Runtime error (func=(main), adr=17): Divide by zero
-KID     null    1.6527  %
-Runtime error (func=(main), adr=18): Divide by zero
-KMF     null    506.522 %
-Runtime error (func=(main), adr=20): Divide by zero
-KRW     null    1540.7613       %
-Runtime error (func=(main), adr=16): Divide by zero
-KWD     null    0.3406  %
-Runtime error (func=(main), adr=16): Divide by zero
-KYD     null    0.9282  %
-Runtime error (func=(main), adr=19): Divide by zero
-KZT     null    535.2039        %
-Runtime error (func=(main), adr=21): Divide by zero
-LAK     null    24472.2414      %
-Runtime error (func=(main), adr=21): Divide by zero
-LBP     null    99690.5542      %
-Runtime error (func=(main), adr=19): Divide by zero
-LKR     null    337.5208        %
-Runtime error (func=(main), adr=19): Divide by zero
-LRD     null    216.5104        %
-Runtime error (func=(main), adr=18): Divide by zero
-LSL     null    20.2145 %
-Runtime error (func=(main), adr=17): Divide by zero
-LYD     null    5.4028  %
-Runtime error (func=(main), adr=18): Divide by zero
-MAD     null    10.9763 %
-Runtime error (func=(main), adr=18): Divide by zero
-MDL     null    19.7841 %
-Runtime error (func=(main), adr=20): Divide by zero
-MGA     null    5002.1199       %
-Runtime error (func=(main), adr=17): Divide by zero
-MKD     null    63.356  %
-Runtime error (func=(main), adr=20): Divide by zero
-MMK     null    2863.0435       %
-Runtime error (func=(main), adr=19): Divide by zero
-MNT     null    3764.629        %
-Runtime error (func=(main), adr=16): Divide by zero
-MOP     null    8.962   %
-Runtime error (func=(main), adr=18): Divide by zero
-MRU     null    44.1185 %
-Runtime error (func=(main), adr=18): Divide by zero
-MUR     null    52.1099 %
-Runtime error (func=(main), adr=18): Divide by zero
-MVR     null    17.1778 %
-Runtime error (func=(main), adr=20): Divide by zero
-MWK     null    1944.4185       %
-Runtime error (func=(main), adr=17): Divide by zero
-MXN     null    19.982  %
-Runtime error (func=(main), adr=17): Divide by zero
-MYR     null    5.2435  %
-Runtime error (func=(main), adr=18): Divide by zero
-MZN     null    71.1934 %
-Runtime error (func=(main), adr=18): Divide by zero
-NAD     null    20.2145 %
-Runtime error (func=(main), adr=20): Divide by zero
-NGN     null    1709.7439       %
-Runtime error (func=(main), adr=18): Divide by zero
-NIO     null    40.9961 %
-Runtime error (func=(main), adr=18): Divide by zero
-NOK     null    11.8186 %
-Runtime error (func=(main), adr=19): Divide by zero
-NPR     null    148.7897        %
-Runtime error (func=(main), adr=17): Divide by zero
-NZD     null    1.8189  %
-Runtime error (func=(main), adr=16): Divide by zero
-OMR     null    0.4283  %
-Runtime error (func=(main), adr=17): Divide by zero
-PAB     null    1.1139  %
-Runtime error (func=(main), adr=17): Divide by zero
-PEN     null    4.2177  %
-Runtime error (func=(main), adr=17): Divide by zero
-PGK     null    4.2983  %
-Runtime error (func=(main), adr=18): Divide by zero
-PHP     null    65.1281 %
-Runtime error (func=(main), adr=19): Divide by zero
-PKR     null    310.3317        %
-Runtime error (func=(main), adr=17): Divide by zero
-PLN     null    4.3859  %
-Runtime error (func=(main), adr=20): Divide by zero
-PYG     null    8343.4825       %
-Runtime error (func=(main), adr=17): Divide by zero
-QAR     null    4.0545  %
-Runtime error (func=(main), adr=16): Divide by zero
-RON     null    5.121   %
-Runtime error (func=(main), adr=19): Divide by zero
-RSD     null    120.5212        %
-Runtime error (func=(main), adr=17): Divide by zero
-RUB     null    97.302  %
-Runtime error (func=(main), adr=20): Divide by zero
-RWF     null    1498.1321       %
-Runtime error (func=(main), adr=16): Divide by zero
-SAR     null    4.177   %
-Runtime error (func=(main), adr=17): Divide by zero
-SBD     null    9.4088  %
-Runtime error (func=(main), adr=18): Divide by zero
-SCR     null    15.6463 %
-Runtime error (func=(main), adr=19): Divide by zero
-SDG     null    497.8816        %
-Runtime error (func=(main), adr=18): Divide by zero
-SEK     null    11.7572 %
-Runtime error (func=(main), adr=17): Divide by zero
-SGD     null    1.5043  %
-Runtime error (func=(main), adr=16): Divide by zero
-SHP     null    0.8706  %
-Runtime error (func=(main), adr=18): Divide by zero
-SLE     null    25.2493 %
-Runtime error (func=(main), adr=20): Divide by zero
-SLL     null    25247.089       %
-Runtime error (func=(main), adr=19): Divide by zero
-SOS     null    636.5439        %
-Runtime error (func=(main), adr=18): Divide by zero
-SRD     null    33.5882 %
-Runtime error (func=(main), adr=20): Divide by zero
-SSP     null    2453.0343       %
-Runtime error (func=(main), adr=18): Divide by zero
-STN     null    25.2248 %
-Runtime error (func=(main), adr=21): Divide by zero
-SYP     null    14331.9296      %
-Runtime error (func=(main), adr=18): Divide by zero
-SZL     null    20.2145 %
-Runtime error (func=(main), adr=18): Divide by zero
-THB     null    40.5632 %
-Runtime error (func=(main), adr=18): Divide by zero
-TJS     null    12.0492 %
-Runtime error (func=(main), adr=17): Divide by zero
-TMT     null    3.8979  %
-Runtime error (func=(main), adr=17): Divide by zero
-TND     null    3.4901  %
-Runtime error (func=(main), adr=17): Divide by zero
-TOP     null    2.5937  %
-Runtime error (func=(main), adr=18): Divide by zero
-TRY     null    36.6598 %
-Runtime error (func=(main), adr=17): Divide by zero
-TTD     null    7.5389  %
-Runtime error (func=(main), adr=17): Divide by zero
-TVD     null    1.6527  %
-Runtime error (func=(main), adr=18): Divide by zero
-TWD     null    36.2551 %
-Runtime error (func=(main), adr=19): Divide by zero
-TZS     null    2967.558        %
-Runtime error (func=(main), adr=18): Divide by zero
-UAH     null    45.3796 %
-Runtime error (func=(main), adr=20): Divide by zero
-UGX     null    4124.2156       %
-Runtime error (func=(main), adr=17): Divide by zero
-USD     null    1.1139  %
-Runtime error (func=(main), adr=18): Divide by zero
-UYU     null    44.5215 %
-Runtime error (func=(main), adr=21): Divide by zero
-UZS     null    14045.0988      %
-Runtime error (func=(main), adr=18): Divide by zero
-VES     null    40.6628 %
-Runtime error (func=(main), adr=21): Divide by zero
-VND     null    28350.4776      %
-Runtime error (func=(main), adr=19): Divide by zero
-VUV     null    131.8613        %
-Runtime error (func=(main), adr=17): Divide by zero
-WST     null    2.9993  %
-Runtime error (func=(main), adr=19): Divide by zero
-XAF     null    675.3626        %
-Runtime error (func=(main), adr=17): Divide by zero
-XCD     null    3.0074  %
-Runtime error (func=(main), adr=16): Divide by zero
-XDR     null    0.8433  %
-Runtime error (func=(main), adr=19): Divide by zero
-XOF     null    675.3626        %
-Runtime error (func=(main), adr=19): Divide by zero
-XPF     null    122.8623        %
-Runtime error (func=(main), adr=18): Divide by zero
-YER     null    278.835 %
-Runtime error (func=(main), adr=18): Divide by zero
-ZAR     null    20.2146 %
-Runtime error (func=(main), adr=18): Divide by zero
-ZMW     null    27.6866 %
-Runtime error (func=(main), adr=18): Divide by zero
-ZWL     null    15.3048 %
+CHF     1       1       0%
+AED     4.0907  4.0844  -.1500%
+AFN     79.1875 79.1877 0%
+ALL     103.1608        103.2771        .1100%
+AMD     432.7761        432.0539        -.1600%
+ANG     1.9938  1.9908  -.1500%
+AOA     987.9682        988.3945        .0400%
+ARS     1023.5491       1023.0011       -.0500%
+AUD     1.6528  1.6492  -.2100%
+AWG     1.9938  1.9908  -.1500%
+AZN     1.8936  1.8932  -.0200%
+BAM     2.0137  2.0097  -.1900%
+BBD     2.2277  2.2243  -.1500%
+BDT     130.9184        130.6945        -.1700%
+BGN     2.0137  2.0099  -.1800%
+BHD     0.4188  0.4182  -.1400%
+BIF     3212.7453       3217.0189       .1300%
+BMD     1.1139  1.1122  -.1500%
+BND     1.5043  1.5009  -.2200%
+BOB     7.7002  7.7069  .0800%
+BRL     6.0845  6.0173  -1.1000%
+BSD     1.1139  1.1122  -.1500%
+BTN     92.9936 92.9081 -.0900%
+BWP     15.0883 15.07   -.1200%
+BYN     3.6166  3.6275  .3000%
+BZD     2.2277  2.2243  -.1500%
+CAD     1.519   1.5155  -.2300%
+CDF     3182.7196       3157.4444       -.7900%
+CLP     1046.3994       1037.4746       -.8500%
+CNY     8.1123  8.1061  -.0700%
+COP     4495.5694       4475.1308       -.4500%
+CRC     593.9053        591.4982        -.4000%
+CUP     26.7327 26.6919 -.1500%
+CVE     113.527 113.3004        -.1900%
+CZK     26.0091 26.0628 .2000%
+DJF     197.9565        197.6548        -.1500%
+DKK     7.6825  7.6621  -.2600%
+DOP     65.8452 65.8019 -.0600%
+DZD     149.6483        149.5945        -.0300%
+EGP     53.5376 53.4185 -.2200%
+ERN     16.7079 16.6824 -.1500%
+ETB     63.6596 63.6773 .0200%
+EUR     1.0296  1.0275  -.2000%
+FJD     2.502   2.4987  -.1300%
+FKP     0.8706  0.8667  -.4400%
+FOK     7.6817  7.6626  -.2400%
+GBP     0.8706  0.8666  -.4500%
+GEL     3.0519  3.0641  .3900%
+GGP     0.8706  0.8667  -.4400%
+GHS     17.2537 17.2355 -.1000%
+GIP     0.8706  0.8667  -.4400%
+GMD     72.262  72.0551 -.2800%
+GNF     9655.7102       9645.7808       -.1000%
+GTQ     8.6458  8.642   -.0400%
+GYD     232.935 233.0854        .0600%
+HKD     8.7011  8.6896  -.1300%
+HNL     27.5676 27.5766 .0300%
+HRK     7.7574  7.7419  -.1900%
+HTG     147.1698        147.3019        .0800%
+HUF     406.1284        404.0587        -.5000%
+IDR     18096.1123      18055.0347      -.2200%
+ILS     4.0932  4.0717  -.5200%
+IMP     0.8706  0.8667  -.4400%
+INR     92.9935 92.9058 -.0900%
+IQD     1455.3462       1457.2821       .1300%
+IRR     47361.681       47505.399       .3000%
+ISK     153.4816        153.3922        -.0500%
+JEP     0.8706  0.8667  -.4400%
+JMD     174.3001        174.54  .1300%
+JOD     0.7897  0.7885  -.1500%
+JPY     179.5785        179.733 .0800%
+KES     143.0106        143.3298        .2200%
+KGS     96.0196 95.9032 -.1200%
+KHR     4602.0405       4608.1622       .1300%
+KID     1.6527  1.6492  -.2100%
+KMF     506.522 505.5107        -.1900%
+KRW     1540.7613       1540.1589       -.0300%
+KWD     0.3406  0.3403  -.0800%
+KYD     0.9282  0.9268  -.1500%
+KZT     535.2039        531.4722        -.6900%
+LAK     24472.2414      24469.0421      -.0100%
+LBP     99690.5542      99538.6087      -.1500%
+LKR     337.5208        336.8568        -.1900%
+LRD     216.5104        216.523 0%
+LSL     20.2145 20.1288 -.4200%
+LYD     5.4028  5.4064  .0600%
+MAD     10.9763 10.9521 -.2200%
+MDL     19.7841 19.7929 .0400%
+MGA     5002.1199       4998.4041       -.0700%
+MKD     63.356  63.3412 -.0200%
+MMK     2863.0435       2861.5222       -.0500%
+MNT     3764.629        3758.6772       -.1500%
+MOP     8.962   8.9506  -.1200%
+MRU     44.1185 44.2977 .4000%
+MUR     52.1099 52.1111 0%
+MVR     17.1778 17.1907 .0700%
+MWK     1944.4185       1942.6305       -.0900%
+MXN     19.982  19.8358 -.7300%
+MYR     5.2435  5.2386  -.0900%
+MZN     71.1934 71.1157 -.1000%
+NAD     20.2145 20.1288 -.4200%
+NGN     1709.7439       1713.7207       .2300%
+NIO     40.9961 40.9919 -.0100%
+NOK     11.8186 11.9122 .7900%
+NPR     148.7897        148.653 -.0900%
+NZD     1.8189  1.8278  .4800%
+OMR     0.4283  0.4276  -.1600%
+PAB     1.1139  1.1122  -.1500%
+PEN     4.2177  4.2078  -.2300%
+PGK     4.2983  4.3349  .8500%
+PHP     65.1281 64.8576 -.4100%
+PKR     310.3317        309.8409        -.1500%
+PLN     4.3859  4.3763  -.2100%
+PYG     8343.4825       8345.5729       .0200%
+QAR     4.0545  4.0483  -.1500%
+RON     5.121   5.1141  -.1300%
+RSD     120.5212        120.4344        -.0700%
+RUB     97.302  98.1706 .8900%
+RWF     1498.1321       1497.9448       -.0100%
+SAR     4.177   4.1706  -.1500%
+SBD     9.4088  9.3978  -.1100%
+SCR     15.6463 16.4412 5.0800%
+SDG     497.8816        498.5439        .1300%
+SEK     11.7572 11.7269 -.2500%
+SGD     1.5043  1.5005  -.2500%
+SHP     0.8706  0.8667  -.4400%
+SLE     25.2493 26.1398 3.5200%
+SLL     25247.089       26139.9053      3.5300%
+SOS     636.5439        637.3907        .1300%
+SRD     33.5882 33.7594 .5000%
+SSP     2453.0343       2446.1135       -.2800%
+STN     25.2248 25.1744 -.1900%
+SYP     14331.9296      14330.7705      0%
+SZL     20.2145 20.1288 -.4200%
+THB     40.5632 40.4248 -.3400%
+TJS     12.0492 12.0485 0%
+TMT     3.8979  3.8975  -.0100%
+TND     3.4901  3.4842  -.1600%
+TOP     2.5937  2.5829  -.4100%
+TRY     36.6598 36.6028 -.1500%
+TTD     7.5389  7.5325  -.0800%
+TVD     1.6527  1.6492  -.2100%
+TWD     36.2551 36.2466 -.0200%
+TZS     2967.558        2966.9906       -.0100%
+UAH     45.3796 45.3615 -.0300%
+UGX     4124.2156       4120.8236       -.0800%
+USD     1.1139  1.1121  -.1600%
+UYU     44.5215 44.5894 .1500%
+UZS     14045.0988      14091.4625      .3300%
+VES     40.6628 40.6069 -.1300%
+VND     28350.4776      28266.5576      -.2900%
+VUV     131.8613        132.4401        .4300%
+WST     2.9993  3.0002  .0300%
+XAF     675.3626        674.0142        -.1900%
+XCD     3.0074  3.0028  -.1500%
+XDR     0.8433  0.8436  .0300%
+XOF     675.3626        674.0142        -.1900%
+XPF     122.8623        122.617 -.1900%
+YER     278.835 278.7203        -.0400%
+ZAR     20.2146 20.1277 -.4200%
+ZMW     27.6866 28.0894 1.4500%
+ZWL     15.3048 15.2716 -.2100%
 noah@LaptopNoah:~$
